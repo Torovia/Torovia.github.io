@@ -1,5 +1,5 @@
-# <p align=center> **Ziyu Guo** </p>
-<p align=center> (+86)18911035758 | zg2408@columbia.edu </p>
+# **Ziyu Guo** 
+(+86)18911035758 | zg2408@columbia.edu
 
 ## Education
 **School of Physics, Peking University (PKU)**, Beijing, China | Sept.2016 - July.2020
