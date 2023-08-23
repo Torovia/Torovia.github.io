@@ -10,7 +10,7 @@
 - Main Courses: Fundamentals of Photonics, Semiconductor Device Physics, Photonic Integrated Circuits, MOS Transistors, Principles of Semiconductor Physics, Laser Physics, Lightwave Devices
 
 ## Research Experience
-<ins>**Research on the remote evaluation of optical clock frequency transmission performance**</ins> | June.2023- Present  
+<ins>**Research on the remote evaluation of optical clock frequency transmission performance**</ins> | May.2023- Present  
 *Adviser: Jianye Zhao, Professor at Institute of Applied Electronics, the School of Electronics Engineering and Computer Science, Peking University*  
 - Set up a mode-locking laser based on NPE whose repetition rate was locked on a reference signal
 - Designed a transmission system with a 10km fiber link, evaluated the instability loss at the remote site and achieved the residual instability of 5.74×10<sup>-15</sup> at 1s and 8.61×10<sup>-19</sup> at 40,000s averaging time
