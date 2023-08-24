@@ -32,7 +32,7 @@
 
 ## Leadership and Activities
 **Student News Agency at the School of Physics**, PKU | Sept.2016 - Sept.2018   
-- President | Sept.2017 - Sept.2018
+- President (Sept.2017 - Sept.2018)
 - Operated the WeChat public account "Physics of Peking University", published college daily news and weekly academic lecture information
 - Prepared and wrote press releases for conferences and ceremonies on campus
 
