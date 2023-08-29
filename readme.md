@@ -14,6 +14,7 @@
 *Adviser: Jianye Zhao, Professor at Institute of Applied Electronics, the School of Electronics Engineering and Computer Science, Peking University*  
 - Set up a mode-locking laser based on NPE whose repetition rate was locked on a reference signal
 - Designed a transmission system with a 10km fiber link, evaluated the instability loss at the remote site and achieved the residual instability of 5.74×10<sup>-15</sup> at 1s and 8.61×10<sup>-19</sup> at 40,000s averaging time
+- Submitted a paper titled ‘Remote direct residual instability evaluation of comb-based precise frequency transmission for optical clock’ to Optics Letters, which is now under peer review
 
 
 <ins>**Research on acquiring real time overall picture of SEM scanning results**</ins> | Nov. 2020 - July.2021  
