@@ -15,10 +15,6 @@
 - Set up a mode-locking laser based on NPE whose repetition rate was locked on a reference signal
 - Designed a transmission system with a 10km fiber link, evaluated the instability loss at the remote site and achieved the residual instability of 5.74×10<sup>-15</sup> at 1s and 8.61×10<sup>-19</sup> at 40,000s averaging time
 
-<ins>**Research on coupling efficiency between tapered waveguides and microsphere resonators**</ins> | June.2022 - Apr.2023  
-*Adviser: Michal Lipson, Professor of Columbia Engineering*
-- Read relevant literature on tapered couplers, whispering gallery wave modes, four-wave mixing
-- Participated in reducing the noise and improving the efficiency in coupling between various structures of coupling models and materials by measuring and simulating  
 
 <ins>**Research on acquiring real time overall picture of SEM scanning results**</ins> | Nov. 2020 - July.2021  
 *Adviser: Rui Zhu, Professor at Electron Microscopy Laboratory, Peking University*
