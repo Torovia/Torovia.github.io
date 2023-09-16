@@ -5,7 +5,7 @@
 **School of Physics, Peking University (PKU)**, Beijing, China | Sept.2016 - July.2020
 - B.S. in Physics
 
-**Columbia Engineering**, New York, U.S. | Sept.2021 - Dec.2022
+**Columbia Engineering**, New York, U.S. | Sept.2021 - Feb.2023
 - M.S. in Electrical Engineering
 - Main Courses: Fundamentals of Photonics, Semiconductor Device Physics, Photonic Integrated Circuits, MOS Transistors, Principles of Semiconductor Physics, Laser Physics, Lightwave Devices
 
@@ -34,5 +34,5 @@
 - Prepared and wrote press releases for conferences and ceremonies on campus
 
 ## Skills
-- **Language Skills**: Excellent in Test for CET-6(537), TOEFL 102, GRE 320+4.0
+- **Language Skills**: Excellent in Test for CET-6(539), TOEFL 102, GRE 320+4.0
 - **Computer Skills**: C/C++, Matlab, Mathematica
